@@ -1,6 +1,6 @@
 {
   "name": "com.johanhelsing.oneof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "OneOf",
   "description": "Easy to use discriminated unions/sum types for C#",
   "unity": "2020.3",

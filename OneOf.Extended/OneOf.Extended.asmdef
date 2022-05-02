@@ -1,3 +1,16 @@
 {
-	"name": "OneOf.Extended"
+    "name": "OneOf.Extended",
+    "rootNamespace": "",
+    "references": [
+        "GUID:367d8b9687ac36e4a90319986ab8dfb1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

@@ -1,0 +1,16 @@
+{
+  "name": "com.johanhelsing.oneof",
+  "version": "0.1.0",
+  "displayName": "OneOf",
+  "description": "Easy to use discriminated unions/sum types for C#",
+  "unity": "2020.3",
+  "keywords": [],
+  "author": {
+    "name": "Johan Klokkhammer Helsing",
+    "email": "johanhelsing@gmail.com",
+    "url": "https://github.com/johanhelsing/OneOf-Unity"
+  },
+  "dependencies": {
+  },
+  "type": "library"
+}

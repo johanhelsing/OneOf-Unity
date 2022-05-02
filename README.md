@@ -1,10 +1,18 @@
-# OneOf
+# OneOf-Unity
+
+OneOf, packaged as a Unity UPM package.
 
 > "Ah! It's like a compile time checked switch statement!" - Mike Giorgaras
 
 ## Getting Started
 
-> `install-package OneOf`
+Add in manifest.json:
+
+```
+    "com.johanhelsing.oneof": "https://github.com/johanhelsing/OneOf-Unity.git",
+```
+
+Or open the package manager window and add from git url: "https://github.com/johanhelsing/OneOf-Unity.git"
 
 This library provides F# style ~discriminated~ unions for C#, using a custom type `OneOf<T0, ... Tn>`. An instance of this type holds a single value, which is one of the types in its generic argument list.
 
